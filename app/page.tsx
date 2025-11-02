@@ -11,10 +11,14 @@
 // div, h1, h2, ul, input ( )
 // compoennt
 
+import { FaBeer } from 'react-icons/fa'; // Importa um ícone específico
+
 export default function Home() {
   return (
       <div>
         <h1 className="text-3xl text-orange-500">Emerson</h1>
+
+        <FaBeer />
       </div>
   );
 }

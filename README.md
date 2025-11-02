@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#### Criando um projeto nextjs
 
-## Getting Started
+npm ( node packege manager ( busca na maquina ) )
+npx ( node packege manager ( quando buscar local externo ) )
+npx create-next-app@latest .
+npx create-next-app@latest app1
+npx create-next-app@latest app2
+npx create-next-app@latest app3
+npx create-next-app@latest app4
+npx create-next-app@latest app5
 
-First, run the development server:
+#### entrar na pasta do projeto
 
-```bash
+cd app4
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### salvar no git pela primeira vez
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* inicializa o repositório
+* git init
 
-## Learn More
+* adicionar na area de stage ( area de transfererência )
 
-To learn more about Next.js, take a look at the following resources:
+git add App.tsx
+git add styles.css
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+git add . ( adiciona todos os arquivos que não estão na lista do .gitignore )
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### atualizar no git
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+#### comandos essenciais cmd
+cd
+cd ..
+cd c:\dev\next
+
+dir
+
+mkdir = e um comando pra criar um diretorio(pasta)
