@@ -17,6 +17,7 @@ export default function Home() {
   return (
       <div>
         <h1 className="text-3xl text-orange-500">Emerson sabino</h1>
+        <h2>evolucao sempre</h2>
 
         <FaBeer />
       </div>
