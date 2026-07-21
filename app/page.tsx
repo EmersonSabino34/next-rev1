@@ -12,6 +12,7 @@
 // div, h1, h2, ul, input ( )
 // compoennt
 
+
 import { FaBeer } from 'react-icons/fa'; // Importa um ícone específico
 
 export default function Home() {
