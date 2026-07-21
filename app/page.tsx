@@ -13,7 +13,6 @@
 
 import { FaBeer } from 'react-icons/fa'; // Importa um ícone específico
 
-
 export default function Home() {
   return (
       <div>
