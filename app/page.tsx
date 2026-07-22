@@ -7,6 +7,7 @@
 
 // typescript é mantido pela microsoft
 // scriptlet ( é neutro sem formatação sem dados )
+
 // div, h1, h2, ul, input ( )
 // compoennt
 
