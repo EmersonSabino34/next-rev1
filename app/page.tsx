@@ -1,6 +1,5 @@
 
 // js   - ( não retorna o html )
-
 // jsx  - ( retorna o html )
 // ts   - ( não retorna o html  )
 
