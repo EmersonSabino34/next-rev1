@@ -6,7 +6,6 @@
 // ts   - ( não retorna o html  )
 
 // tsx  - ( retorna o html input, select tipages, user )
-
 // typescript é mantido pela microsoft
 
 // scriptlet ( é neutro sem formatação sem dados )
